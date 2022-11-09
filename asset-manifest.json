@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nicholas-Lucien-Class-React-List/static/css/main.1c6a2827.css",
+    "main.js": "/Nicholas-Lucien-Class-React-List/static/js/main.1dc03ea5.js",
+    "index.html": "/Nicholas-Lucien-Class-React-List/index.html",
+    "main.1c6a2827.css.map": "/Nicholas-Lucien-Class-React-List/static/css/main.1c6a2827.css.map",
+    "main.1dc03ea5.js.map": "/Nicholas-Lucien-Class-React-List/static/js/main.1dc03ea5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c6a2827.css",
+    "static/js/main.1dc03ea5.js"
+  ]
+}
